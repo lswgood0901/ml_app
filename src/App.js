@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div className="black-nav">
-        <div>개발 blog</div>
+        <div>seungwon react tutorial</div>
       </div>
     </div>
   );
